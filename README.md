@@ -31,6 +31,7 @@ However, there’s an index on the FullName column which the query cannot use be
 Hencw we will Add a new column to the Employees table called ReverseFullName
 
 ![add new column](https://user-images.githubusercontent.com/106580846/204546438-54449a49-2da3-4848-b02c-258fbe346739.jpg)
+
 Populate the ReverseFullName column with the name of each employee as its values, but in reverse.
 
 ![reverse name](https://user-images.githubusercontent.com/106580846/204547287-dbfb5cc4-b7a5-43b9-9097-cb5c477dcc36.jpg)
